@@ -16,7 +16,7 @@ var soma = soma + 1
 soma = soma * 3
 
 // Qual é o valor da variável `soma` até aqui?
-73
+72
 
 // Declare uma variável chamada `souninja`, atribuindo à ela o valor booleano que representa `verdadeiro`.
 var souninja = true;
@@ -28,7 +28,7 @@ var comida = ['arroz','feijao','ovo']
 comida[1]
 
 // Digite o código que verifica se a variável `soma' é igual a variável `myvar` (testando também o tipo).
-if(soma == myvar){
+if(soma === myvar){
 
 }
 
